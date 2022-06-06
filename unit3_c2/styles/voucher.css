@@ -1,0 +1,10 @@
+#navbar{
+    display:flex;
+    align-items: center;
+    background-color: aqua;
+    padding: 10px;
+}
+
+#wallet_balance{
+    margin: auto;
+}
